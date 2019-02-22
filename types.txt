@@ -1,0 +1,4 @@
+contract_to_hire
+part_time
+contract
+temporary

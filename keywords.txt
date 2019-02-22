@@ -1,0 +1,7 @@
+sql+marketing
+"data engineer"+marketing
+"Database Warehouse"+marketing
+Database+marketing
+"data scientist"+marketing
+"business intelligence"+marketing
+"big data"+marketing
